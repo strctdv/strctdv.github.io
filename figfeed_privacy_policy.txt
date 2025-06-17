@@ -1,0 +1,34 @@
+Privacy Policy for FigFeed Demo
+
+Effective Date: June 17, 2025
+
+FigFeed Demo ("we", "our", or "us") is a testing-stage mobile application that allows users to record and upload videos using their device’s camera and microphone. This privacy policy explains how we handle user data.
+
+1. Information We Collect
+- Camera and Microphone Access: We request access to your device's camera and microphone to allow you to record and upload videos.
+- Uploaded Content: Videos recorded using the app may be uploaded to our backend powered by Firebase.
+
+2. Use of Information
+- The collected media (videos) are used solely for testing purposes within the FigFeed Demo app.
+- We do not sell or share user data with third parties.
+
+3. Data Storage
+- Uploaded content is stored securely on Firebase servers.
+- Data is not used for any commercial purposes.
+
+4. User Privacy
+- No personally identifiable information is required to use the app.
+- We do not track, profile, or analyze user behavior.
+- Access to media is limited to testing personnel only.
+
+5. Data Deletion
+- Users can request removal of their uploaded content by contacting us at the email below.
+
+6. Contact
+If you have any questions or requests regarding this privacy policy, please contact us at:
+edi@starcat.dev
+
+This privacy policy is subject to change. Any changes will be updated in the next app version.
+
+This app is currently in internal testing and is not publicly distributed.
+
